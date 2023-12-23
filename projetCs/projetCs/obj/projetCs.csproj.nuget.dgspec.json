@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hatim  aba\\Desktop\\projrctCS\\projetCs\\projetCs\\projetCs.csproj": {}
+    "C:\\Users\\Hatim  aba\\Desktop\\projrctCS\\ProjetC-\\projetCs\\projetCs\\projetCs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hatim  aba\\Desktop\\projrctCS\\projetCs\\projetCs\\projetCs.csproj": {
+    "C:\\Users\\Hatim  aba\\Desktop\\projrctCS\\ProjetC-\\projetCs\\projetCs\\projetCs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hatim  aba\\Desktop\\projrctCS\\projetCs\\projetCs\\projetCs.csproj",
+        "projectUniqueName": "C:\\Users\\Hatim  aba\\Desktop\\projrctCS\\ProjetC-\\projetCs\\projetCs\\projetCs.csproj",
         "projectName": "projetCs",
-        "projectPath": "C:\\Users\\Hatim  aba\\Desktop\\projrctCS\\projetCs\\projetCs\\projetCs.csproj",
+        "projectPath": "C:\\Users\\Hatim  aba\\Desktop\\projrctCS\\ProjetC-\\projetCs\\projetCs\\projetCs.csproj",
         "packagesPath": "C:\\Users\\Hatim  aba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hatim  aba\\Desktop\\projrctCS\\projetCs\\projetCs\\obj\\",
+        "outputPath": "C:\\Users\\Hatim  aba\\Desktop\\projrctCS\\ProjetC-\\projetCs\\projetCs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hatim  aba\\AppData\\Roaming\\NuGet\\NuGet.Config",

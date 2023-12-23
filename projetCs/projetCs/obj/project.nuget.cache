@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "piR1EcWYi7WE0dKi2/GGrqqvsaE1R7aXmow9u+Bjd7OxJIrmc78OH2nz1Zs7edcvK9MCJBjfJfhDZHAVfGKiUw==",
+  "dgSpecHash": "E8aAGc+rnIacwUH202iCPTBFotKufNrirTec5/lgFPxrFS6EOzcQv47etRWhEgx2rF8mOWvxl0mNXHWSEGYZjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hatim  aba\\Desktop\\projrctCS\\projetCs\\projetCs\\projetCs.csproj",
+  "projectFilePath": "C:\\Users\\Hatim  aba\\Desktop\\projrctCS\\ProjetC-\\projetCs\\projetCs\\projetCs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hatim  aba\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Hatim  aba\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
